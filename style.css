@@ -1,0 +1,231 @@
+.navbar ul li{
+   
+    text-decoration:none;
+    display: inline;
+position:sticky;list-style-type: none;
+color:rgb(5, 5, 5);
+padding:20px;
+flex-direction: row;
+font-weight:bold;
+border-radius: 45px;
+flex-wrap: wrap;
+
+    
+}
+.header{
+    display:flex;
+    justify-content:space-evenly;
+    position:fixed;
+    width:500px;height:auto;
+    flex-wrap:wrap;
+    align-items: center;
+    
+    }
+    ul.nav_links li {
+        display:flex-end;
+        flex-wrap:wrap;
+        justify-content:space-evenly;
+        position:sticky;
+        
+        
+    }
+      ul.nav_links li a:hover{
+        background-color:rgb(143, 85, 143);
+        color:crimson;
+        font-weight:bold;
+        font-size:20px;
+        border-radius: 45px;
+        background-color:rgb(110, 66, 110);
+        color:darkred;
+         font-weight:bold;
+        font-size:20px;
+        
+        
+    
+    }
+    body{
+        box-sizing: border-box;
+        display:flexbox;
+        flex-direction: row;
+        flex-wrap: wrap;
+        background-color:black;
+    font-size:larger;
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-family:'Ubuntu Condensed', sans-serif;
+    color:rgb(7, 6, 6);
+    
+    }
+      
+     *{
+        top:0px;
+        bottom:0px;
+    }
+    .container{padding:28px 18px;
+        font-size:50px;
+    font-family:'Ubuntu Condensed', sans-serif;
+    color:rgb(202, 187, 150);
+    background-image: url("https://media.istockphoto.com/photos/sporty-girl-doing-weight-exercises-with-assistance-of-personal-picture-id639897878?b=1&k=20&m=639897878&s=170667a&w=0&h=fho9glQItPu6Q5xGY-RgM8JUgjrPFNob8CqguIq37gE=");
+    width:100%;
+    height:auto;
+    background-position:center;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    flex-wrap: wrap;
+    opacity:0.4px;
+    z-index:-1;
+    display: flex;
+    position :fixed;;
+    color:rgb(116, 55, 116);;
+    font-weight: bold;;
+    align-items:center;
+    
+    
+    }
+    .group{padding:28px 38px;
+        font-size:30px;
+    font-family:'Ubuntu Condensed', sans-serif;
+    color:black;
+    display:flex;
+    
+    flex-wrap:wrap;
+    width:100%;
+    font-weight:normal;
+    
+    
+    }
+    .content{
+        padding:28px 38px;
+        font-size:30px;
+    font-family:'Ubuntu Condensed', sans-serif;
+    color:black;
+    display:flex;
+    flex-wrap:wrap;
+    font-weight:normal;
+    
+    }
+    .row{
+        padding:28px 38px;
+        font-size:30px;
+    font-family:'Ubuntu Condensed', sans-serif;
+    color:black;
+    display:flex;
+    flex-wrap:wrap;
+    font-weight:normal;
+    
+    
+    
+    
+    
+    }
+    .fruit-5{
+        color:black;
+       text-decoration:underline;
+       text-align:center;
+       
+    
+    
+    }
+    
+    .column{
+        padding:28px 38px;
+        font-size:30px;
+    font-family:'Ubuntu Condensed', sans-serif;
+    color:black;
+    font-weight:normal;
+    display:flex;;
+    flex-wrap:wrap;
+    
+    
+    }
+    .firstContainer{
+    
+    text-align:right;
+    display:flex;
+    flex-wrap:wrap;
+    position:fixed;
+    
+    
+    
+    }
+    #btn{
+        border: 22px;
+        margin:12px 8px;
+        padding:15px 24px;
+        border-radius: 25px;
+        background-color:rgb(110, 66, 110);
+        color:darkred;
+        
+        font-weight:bold;
+        font-size:20px;
+        display:flex-end;
+        float:left;
+        flex-wrap: wrap;
+    
+    }
+     
+    
+    
+    .last{
+        font-size:20px;
+        text-align:center;
+        color:black;
+        padding:10px 29px;
+    }
+    .penta{font-size:20px;
+        font-weight:bold;
+        padding:10px 20px;
+        padding:15px 20px;
+        display: -ms-inline-flexbox;
+    
+    }
+    .tetra{
+        font-size:20px;
+        font-weight:bold;
+        padding:10px 20px;
+    }
+    .hexa{
+        font-size:20px;
+        font-weight:bold;
+        padding:15px 20px;
+    
+    
+    }
+    .hepta{
+        font-size:20px;
+        font-weight:bold;
+        padding:10px 29px;
+    
+    }
+    .bg-primary{
+        font-size:20px;
+        font-weight:bold;
+       
+        padding:10px
+        20px;
+
+
+}
+.fruit-1{
+    text-align:center;
+}
+.fruits-2{
+    color:black;
+   text-decoration:underline;
+   text-align:center;
+}
+.fruit-3{
+    color:black;
+   text-decoration:underline;
+   text-align:center;
+
+}
+#fruit-4{
+    color:black;
+   text-decoration:underline;
+   text-align:center;
+
+}
+.bg-secondary{
+    font-size:20px;
+    font-weight:bold;
+    padding:10px 29px;}
